@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Lucas! 👋
 
 
-- 🔭 Estudando: Python, Pyscript
+- 🔭 Estudando: KOTLIN
 - 👌 Skills: HTML5/CSS3/PHP 
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: ...
