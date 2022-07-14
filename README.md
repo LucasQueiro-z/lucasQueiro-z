@@ -1,11 +1,3 @@
-### Olá, Eu sou o Lucas! 👋
-
-
-- 🔭 Estudando: KOTLIN
-- 👌 Skills: HTML5/CSS3/PHP 
-- 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: ...
-
 
 <div>
   <a href="https://beacons.ai/LucasQueiro-z">
